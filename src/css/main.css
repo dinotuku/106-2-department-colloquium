@@ -1,0 +1,14 @@
+@import url(https://fonts.googleapis.com/earlyaccess/notosanstc.css);
+
+body {
+  height: 100%;
+  font-family: "Noto Sans TC", sans-serif;
+  color: #333;
+  background: #add9e4;
+  background: -moz-radial-gradient(center, circle cover, #f7fbfc 0%, #add9e4 100%);
+  background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%, #f7fbfc), color-stop(100%, #add9e4));
+  background: -webkit-radial-gradient(center, circle cover, #f7fbfc 0%, #add9e4 100%);
+  background: -o-radial-gradient(center, circle cover, #f7fbfc 0%, #add9e4 100%);
+  background: -ms-radial-gradient(center, circle cover, #f7fbfc 0%, #add9e4 100%);
+  background: radial-gradient(center, circle cover, #f7fbfc 0%, #add9e4 100%);
+  background-color: #f7fbfc; }
